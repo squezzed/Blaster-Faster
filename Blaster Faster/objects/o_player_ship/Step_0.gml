@@ -1,6 +1,7 @@
 // Set the sprite to face the mouse
 var mouse_direction = point_direction(x, y, mouse_x, mouse_y);
 direction = mouse_direction;
+image_angle = mouse_direction;
 
 var _thrust = mouse_check_button(mb_right);
 image_index = _thrust;
@@ -19,5 +20,7 @@ if (_thrust) {
 	friction = friction_amount;
 } 
 
-
-image_angle = mouse_direction;
+var _fire_laser = mouse_check_button_pressed(mb_left);
+if (_fire_laser){
+	fire_lasers();
+}
