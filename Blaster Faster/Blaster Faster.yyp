@@ -17,7 +17,9 @@
     {"id":{"name":"o_laser","path":"objects/o_laser/o_laser.yy",},"order":2,},
     {"id":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"order":8,},
     {"id":{"name":"a_hit","path":"sounds/a_hit/a_hit.yy",},"order":2,},
+    {"id":{"name":"o_ui","path":"objects/o_ui/o_ui.yy",},"order":9,},
     {"id":{"name":"a_laser","path":"sounds/a_laser/a_laser.yy",},"order":3,},
+    {"id":{"name":"f_one","path":"fonts/f_one/f_one.yy",},"order":0,},
     {"id":{"name":"a_ship_hit","path":"sounds/a_ship_hit/a_ship_hit.yy",},"order":6,},
     {"id":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"order":4,},
     {"id":{"name":"a_music","path":"sounds/a_music/a_music.yy",},"order":4,},
@@ -36,7 +38,7 @@
     {"id":{"name":"s_enemy_laser","path":"sprites/s_enemy_laser/s_enemy_laser.yy",},"order":2,},
     {"id":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"order":0,},
     {"id":{"name":"s_stars_far","path":"sprites/s_stars_far/s_stars_far.yy",},"order":10,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"r_space","path":"rooms/r_space/r_space.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -52,7 +54,7 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+    {"name":"r_space","path":"rooms/r_space/r_space.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
