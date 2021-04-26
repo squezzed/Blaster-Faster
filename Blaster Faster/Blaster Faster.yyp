@@ -24,6 +24,7 @@
     {"id":{"name":"o_ui","path":"objects/o_ui/o_ui.yy",},"order":9,},
     {"id":{"name":"a_laser","path":"sounds/a_laser/a_laser.yy",},"order":3,},
     {"id":{"name":"f_one","path":"fonts/f_one/f_one.yy",},"order":0,},
+    {"id":{"name":"o_timer","path":"objects/o_timer/o_timer.yy",},"order":13,},
     {"id":{"name":"a_ship_hit","path":"sounds/a_ship_hit/a_ship_hit.yy",},"order":6,},
     {"id":{"name":"quit_button","path":"scripts/quit_button/quit_button.yy",},"order":10,},
     {"id":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"order":4,},
